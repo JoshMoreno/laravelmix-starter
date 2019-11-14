@@ -1,0 +1,11 @@
+# Mac
+.DS_Store
+
+# Dependencies
+node_modules
+
+# Compiled assets
+dist/
+
+# PhpStorm
+.idea
